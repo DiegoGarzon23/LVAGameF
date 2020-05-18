@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: c5573c8605d90cc4a923864cc768d5e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7478995358634176870
+    second: ESSAIS_1_0
+  - first:
+      213: 5415328943102488254
+    second: ESSAIS_1_1
+  - first:
+      213: 7693706777324173681
+    second: ESSAIS_1_2
+  - first:
+      213: 94717894157388022
+    second: ESSAIS_1_3
+  - first:
+      213: -5926288898376553487
+    second: ESSAIS_1_4
+  - first:
+      213: 306255907820594156
+    second: ESSAIS_1_5
+  - first:
+      213: -1010993961257814543
+    second: ESSAIS_1_6
+  - first:
+      213: -8317946324982849458
+    second: ESSAIS_1_7
+  - first:
+      213: 6511811898545034134
+    second: ESSAIS_1_8
+  - first:
+      213: 6442530513479295465
+    second: ESSAIS_1_9
+  - first:
+      213: -4453741608392419993
+    second: ESSAIS_1_10
+  - first:
+      213: -8841749885323382350
+    second: ESSAIS_1_11
+  - first:
+      213: 5671789430154745829
+    second: ESSAIS_1_12
+  - first:
+      213: 6748694002985158462
+    second: ESSAIS_1_13
+  - first:
+      213: -8614594983567717730
+    second: ESSAIS_1_14
+  - first:
+      213: -1355648683162523846
+    second: ESSAIS_1_15
+  - first:
+      213: -8573138557677525569
+    second: ESSAIS_1_16
+  - first:
+      213: -3826690845251891723
+    second: ESSAIS_1_17
+  - first:
+      213: -8389691923595822908
+    second: ESSAIS_1_18
+  - first:
+      213: -3744676180194718652
+    second: ESSAIS_1_19
+  - first:
+      213: 4555682853371336133
+    second: ESSAIS_1_20
+  - first:
+      213: 7917031725691389228
+    second: ESSAIS_1_21
+  - first:
+      213: -7986029977601895759
+    second: ESSAIS_1_22
+  - first:
+      213: 9138716115476279418
+    second: ESSAIS_1_23
+  - first:
+      213: 1085543642676696266
+    second: ESSAIS_1_24
+  - first:
+      213: -2814623923235353645
+    second: ESSAIS_1_25
+  - first:
+      213: -6841391018077657515
+    second: ESSAIS_1_26
+  - first:
+      213: 7578312967763580115
+    second: ESSAIS_1_27
+  - first:
+      213: 6810189784028574791
+    second: ESSAIS_1_28
+  - first:
+      213: -6469516068200860609
+    second: ESSAIS_1_29
+  - first:
+      213: 1658373248547470402
+    second: ESSAIS_1_30
+  - first:
+      213: 6770406874150763736
+    second: ESSAIS_1_31
+  - first:
+      213: -2270548942086743387
+    second: ESSAIS_1_32
+  - first:
+      213: 8198332048386781632
+    second: ESSAIS_1_33
+  - first:
+      213: -72485632071623072
+    second: ESSAIS_1_34
+  - first:
+      213: 6700615318610572247
+    second: ESSAIS_1_35
+  - first:
+      213: 5422252292702676606
+    second: ESSAIS_1_36
+  - first:
+      213: -3499526580519194902
+    second: ESSAIS_1_37
+  - first:
+      213: 3500719843555800844
+    second: ESSAIS_1_38
+  - first:
+      213: -1232020763585121734
+    second: ESSAIS_1_39
+  - first:
+      213: 5436856885190060117
+    second: ESSAIS_1_40
+  - first:
+      213: 911247365775840712
+    second: ESSAIS_1_41
+  - first:
+      213: -8520245060945941651
+    second: ESSAIS_1_42
+  - first:
+      213: 763005648151804911
+    second: ESSAIS_1_43
+  - first:
+      213: -766679348500398914
+    second: ESSAIS_1_44
+  - first:
+      213: 7075263369340809804
+    second: ESSAIS_1_45
+  - first:
+      213: 2204455033581191561
+    second: ESSAIS_1_46
+  - first:
+      213: -3205892561087541792
+    second: ESSAIS_1_47
+  - first:
+      213: -3661492001716696497
+    second: ESSAIS_1_48
+  - first:
+      213: -7907399663756252757
+    second: ESSAIS_1_49
+  - first:
+      213: -5637575396603830657
+    second: ESSAIS_1_50
+  - first:
+      213: 3709699532551794029
+    second: ESSAIS_1_51
+  - first:
+      213: -1098288933722737762
+    second: ESSAIS_1_52
+  - first:
+      213: -6785986807521916411
+    second: ESSAIS_1_53
+  - first:
+      213: 7847264182163414681
+    second: ESSAIS_1_54
+  - first:
+      213: 8026154694936705658
+    second: ESSAIS_1_55
+  - first:
+      213: -6569517487543205700
+    second: ESSAIS_1_56
+  - first:
+      213: -5348496127758292356
+    second: ESSAIS_1_57
+  - first:
+      213: 104733218659602304
+    second: ESSAIS_1_58
+  - first:
+      213: -1847385662279165359
+    second: ESSAIS_1_59
+  - first:
+      213: 9208099968971289221
+    second: ESSAIS_1_60
+  - first:
+      213: -5023885449698236147
+    second: ESSAIS_1_61
+  - first:
+      213: -8584745026312356627
+    second: ESSAIS_1_62
+  - first:
+      213: 8639717557005230832
+    second: ESSAIS_1_63
+  - first:
+      213: -5234453496168357392
+    second: ESSAIS_1_64
+  - first:
+      213: -8366114289138909375
+    second: ESSAIS_1_65
+  - first:
+      213: 5281235758329963640
+    second: ESSAIS_1_66
+  - first:
+      213: -9133246267775980740
+    second: ESSAIS_1_67
+  - first:
+      213: -5768692297776131129
+    second: ESSAIS_1_68
+  - first:
+      213: -2179943590397773125
+    second: ESSAIS_1_69
+  - first:
+      213: 2795662230594503975
+    second: ESSAIS_1_70
+  - first:
+      213: 175420901765715929
+    second: ESSAIS_1_71
+  - first:
+      213: 7610533398832516979
+    second: ESSAIS_1_72
+  - first:
+      213: 6822338998692611836
+    second: ESSAIS_1_73
+  - first:
+      213: -2763790818810604620
+    second: ESSAIS_1_74
+  - first:
+      213: 4824984206687651994
+    second: ESSAIS_1_75
+  - first:
+      213: 303227199188498802
+    second: ESSAIS_1_76
+  - first:
+      213: 7743891209340565894
+    second: ESSAIS_1_77
+  - first:
+      213: 4171587852930019441
+    second: ESSAIS_1_78
+  - first:
+      213: -185363863708304698
+    second: ESSAIS_1_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ESSAIS_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6617f2c37aabac760800000000000000
+      internalID: 7478995358634176870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebee38b6bfc172b40800000000000000
+      internalID: 5415328943102488254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1793c6c0d8985ca60800000000000000
+      internalID: 7693706777324173681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8cf134c61805100800000000000000
+      internalID: 94717894157388022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbacef45a791cda0800000000000000
+      internalID: -5926288898376553487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3e204202a004400800000000000000
+      internalID: 306255907820594156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5b925495a38f1f0800000000000000
+      internalID: -1010993961257814543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40a1a643e7b09c80800000000000000
+      internalID: -8317946324982849458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69350f0bb6a9e5a50800000000000000
+      internalID: 6511811898545034134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e16c863e57786950800000000000000
+      internalID: 6442530513479295465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7659466aa912132c0800000000000000
+      internalID: -4453741608392419993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1f27c235bcb4580800000000000000
+      internalID: -8841749885323382350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e75031bf6e36be40800000000000000
+      internalID: 5671789430154745829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e374db9807d28ad50800000000000000
+      internalID: 6748694002985158462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a8598218fc27880800000000000000
+      internalID: -8614594983567717730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a372fd784b4cf2de0800000000000000
+      internalID: -1355648683162523846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb52d6b77e7160980800000000000000
+      internalID: -8573138557677525569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd858f63fcd4eac0800000000000000
+      internalID: -3826690845251891723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c87b1f55a3d19b80800000000000000
+      internalID: -8389691923595822908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c80a0badc380cc0800000000000000
+      internalID: -3744676180194718652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c559880b69093f30800000000000000
+      internalID: 4555682853371336133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2545558862fedd60800000000000000
+      internalID: 7917031725691389228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b21b631c0ceb2190800000000000000
+      internalID: -7986029977601895759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70f91653ed33de70800000000000000
+      internalID: 9138716115476279418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac49de90130a01f00800000000000000
+      internalID: 1085543642676696266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db8d3f447270f8d0800000000000000
+      internalID: -2814623923235353645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556eee5cd1f7e01a0800000000000000
+      internalID: -6841391018077657515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4d8481e739b2960800000000000000
+      internalID: 7578312967763580115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7447402d687a28e50800000000000000
+      internalID: 6810189784028574791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34b436b969a736a0800000000000000
+      internalID: -6469516068200860609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cbea0eea9b30710800000000000000
+      internalID: 1658373248547470402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc7e9e4e2155fd50800000000000000
+      internalID: 6770406874150763736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aad7cd54c36d70e0800000000000000
+      internalID: -2270548942086743387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c17bc6bf8356c170800000000000000
+      internalID: 8198332048386781632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e1d01a3ba7efef0800000000000000
+      internalID: -72485632071623072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3f252812e5dfc50800000000000000
+      internalID: 6700615318610572247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76271d5bb5bf3b40800000000000000
+      internalID: 5422252292702676606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeead16cd1f2f6fc0800000000000000
+      internalID: -3499526580519194902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07fd4d662e059030800000000000000
+      internalID: 3500719843555800844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESSAIS_1_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a327a9e94abf6eee0800000000000000
+      internalID: -1232020763585121734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
