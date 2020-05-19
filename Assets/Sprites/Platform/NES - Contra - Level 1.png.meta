@@ -1,0 +1,4379 @@
+fileFormatVersion: 2
+guid: 662340d377ee2344cae17324a750890f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4878209446604732620
+    second: NES - Contra - Level 1_0
+  - first:
+      213: 7551069458353813454
+    second: NES - Contra - Level 1_1
+  - first:
+      213: 2324801321953304013
+    second: NES - Contra - Level 1_2
+  - first:
+      213: 4551223331626912971
+    second: NES - Contra - Level 1_3
+  - first:
+      213: -349714417357122856
+    second: NES - Contra - Level 1_4
+  - first:
+      213: -4777573301932441657
+    second: NES - Contra - Level 1_5
+  - first:
+      213: -8258928584645433980
+    second: NES - Contra - Level 1_6
+  - first:
+      213: 2406862815054223816
+    second: NES - Contra - Level 1_7
+  - first:
+      213: -6022791975168478643
+    second: NES - Contra - Level 1_8
+  - first:
+      213: 9176434994241880646
+    second: NES - Contra - Level 1_9
+  - first:
+      213: 3436261919040558584
+    second: NES - Contra - Level 1_10
+  - first:
+      213: 4454697046695050813
+    second: NES - Contra - Level 1_11
+  - first:
+      213: -6496051137397405955
+    second: NES - Contra - Level 1_12
+  - first:
+      213: -5509259950426920082
+    second: NES - Contra - Level 1_13
+  - first:
+      213: 5899316689175344779
+    second: NES - Contra - Level 1_14
+  - first:
+      213: 7391216861443102660
+    second: NES - Contra - Level 1_15
+  - first:
+      213: 246891606504577152
+    second: NES - Contra - Level 1_16
+  - first:
+      213: 6354019675922211453
+    second: NES - Contra - Level 1_17
+  - first:
+      213: 5851683007029389111
+    second: NES - Contra - Level 1_18
+  - first:
+      213: 8022285653463977503
+    second: NES - Contra - Level 1_19
+  - first:
+      213: -1555013221652409798
+    second: NES - Contra - Level 1_20
+  - first:
+      213: 6949631618663931109
+    second: NES - Contra - Level 1_21
+  - first:
+      213: 7739197423376286489
+    second: NES - Contra - Level 1_22
+  - first:
+      213: -4806015207334835370
+    second: NES - Contra - Level 1_23
+  - first:
+      213: 7589021094270664200
+    second: NES - Contra - Level 1_24
+  - first:
+      213: -4564945372644991716
+    second: NES - Contra - Level 1_25
+  - first:
+      213: 8767973803827384433
+    second: NES - Contra - Level 1_26
+  - first:
+      213: 6310138537483820071
+    second: NES - Contra - Level 1_27
+  - first:
+      213: -5162859264503721443
+    second: NES - Contra - Level 1_28
+  - first:
+      213: -7773638698155986697
+    second: NES - Contra - Level 1_29
+  - first:
+      213: 7457639268340325536
+    second: NES - Contra - Level 1_30
+  - first:
+      213: 1658477580409890814
+    second: NES - Contra - Level 1_31
+  - first:
+      213: 8410205080105240974
+    second: NES - Contra - Level 1_32
+  - first:
+      213: -5120781147482628737
+    second: NES - Contra - Level 1_33
+  - first:
+      213: -1529127304989038211
+    second: NES - Contra - Level 1_34
+  - first:
+      213: -600134611924985325
+    second: NES - Contra - Level 1_35
+  - first:
+      213: -3257115010288361650
+    second: NES - Contra - Level 1_36
+  - first:
+      213: 6174423335422016385
+    second: NES - Contra - Level 1_37
+  - first:
+      213: 2117485400049744794
+    second: NES - Contra - Level 1_38
+  - first:
+      213: -7045121569549950275
+    second: NES - Contra - Level 1_39
+  - first:
+      213: 7863977310208086771
+    second: NES - Contra - Level 1_40
+  - first:
+      213: 6149987069142955726
+    second: NES - Contra - Level 1_41
+  - first:
+      213: 5476142616848583141
+    second: NES - Contra - Level 1_42
+  - first:
+      213: -8185291609815783932
+    second: NES - Contra - Level 1_43
+  - first:
+      213: 7966282895765256711
+    second: NES - Contra - Level 1_44
+  - first:
+      213: 1241374298455201729
+    second: NES - Contra - Level 1_45
+  - first:
+      213: 4724000047920484447
+    second: NES - Contra - Level 1_46
+  - first:
+      213: -5123389392952191840
+    second: NES - Contra - Level 1_47
+  - first:
+      213: 1379562477853122770
+    second: NES - Contra - Level 1_48
+  - first:
+      213: 3359747257742235449
+    second: NES - Contra - Level 1_49
+  - first:
+      213: 8205344284845146121
+    second: NES - Contra - Level 1_50
+  - first:
+      213: -4744917218041268056
+    second: NES - Contra - Level 1_51
+  - first:
+      213: 2486167848140922040
+    second: NES - Contra - Level 1_52
+  - first:
+      213: 6861466201677752133
+    second: NES - Contra - Level 1_53
+  - first:
+      213: -7511717306327015435
+    second: NES - Contra - Level 1_54
+  - first:
+      213: 1928797909991415311
+    second: NES - Contra - Level 1_55
+  - first:
+      213: -5792509371163150683
+    second: NES - Contra - Level 1_56
+  - first:
+      213: -2392836441185411379
+    second: NES - Contra - Level 1_57
+  - first:
+      213: -2908279635864347739
+    second: NES - Contra - Level 1_58
+  - first:
+      213: 8230840173888418116
+    second: NES - Contra - Level 1_59
+  - first:
+      213: 4062511684294624554
+    second: NES - Contra - Level 1_60
+  - first:
+      213: 165601662081278112
+    second: NES - Contra - Level 1_61
+  - first:
+      213: 3120799233950906932
+    second: NES - Contra - Level 1_62
+  - first:
+      213: -2457573549078256055
+    second: NES - Contra - Level 1_63
+  - first:
+      213: -3944702846811836804
+    second: NES - Contra - Level 1_64
+  - first:
+      213: -7317127585069838243
+    second: NES - Contra - Level 1_65
+  - first:
+      213: -454706616077255016
+    second: NES - Contra - Level 1_66
+  - first:
+      213: 8576822309732716003
+    second: NES - Contra - Level 1_67
+  - first:
+      213: 1119563126536610290
+    second: NES - Contra - Level 1_68
+  - first:
+      213: 5678949745300613989
+    second: NES - Contra - Level 1_69
+  - first:
+      213: 4022452613212843092
+    second: NES - Contra - Level 1_70
+  - first:
+      213: -7244610730682101496
+    second: NES - Contra - Level 1_71
+  - first:
+      213: 3498405223407013111
+    second: NES - Contra - Level 1_72
+  - first:
+      213: -619446613075979523
+    second: NES - Contra - Level 1_73
+  - first:
+      213: -7748524685571998630
+    second: NES - Contra - Level 1_74
+  - first:
+      213: -1699327742909192263
+    second: NES - Contra - Level 1_75
+  - first:
+      213: 1954570561878586128
+    second: NES - Contra - Level 1_76
+  - first:
+      213: -4176005519621375337
+    second: NES - Contra - Level 1_77
+  - first:
+      213: 5273925608522367159
+    second: NES - Contra - Level 1_78
+  - first:
+      213: 7213720326267052484
+    second: NES - Contra - Level 1_79
+  - first:
+      213: 2703389062909004989
+    second: NES - Contra - Level 1_80
+  - first:
+      213: 5554784557113979230
+    second: NES - Contra - Level 1_81
+  - first:
+      213: 3169821342503926507
+    second: NES - Contra - Level 1_82
+  - first:
+      213: 8909726478934677193
+    second: NES - Contra - Level 1_83
+  - first:
+      213: 8622156228962381834
+    second: NES - Contra - Level 1_84
+  - first:
+      213: 7870700404788166521
+    second: NES - Contra - Level 1_85
+  - first:
+      213: 3993868599882545655
+    second: NES - Contra - Level 1_86
+  - first:
+      213: 3302433944463487788
+    second: NES - Contra - Level 1_87
+  - first:
+      213: -7217546635453189696
+    second: NES - Contra - Level 1_88
+  - first:
+      213: 5523512813225433541
+    second: NES - Contra - Level 1_89
+  - first:
+      213: -3332111258017553694
+    second: NES - Contra - Level 1_90
+  - first:
+      213: -8341484539561163127
+    second: NES - Contra - Level 1_91
+  - first:
+      213: -8007798769258907959
+    second: NES - Contra - Level 1_92
+  - first:
+      213: -7610393336447721864
+    second: NES - Contra - Level 1_93
+  - first:
+      213: -270641647860998841
+    second: NES - Contra - Level 1_94
+  - first:
+      213: -5111071734540498409
+    second: NES - Contra - Level 1_95
+  - first:
+      213: -7196801200845049020
+    second: NES - Contra - Level 1_96
+  - first:
+      213: -4201013300219730333
+    second: NES - Contra - Level 1_97
+  - first:
+      213: -5408772368828664439
+    second: NES - Contra - Level 1_98
+  - first:
+      213: 406545840392475930
+    second: NES - Contra - Level 1_99
+  - first:
+      213: -1166092307536139780
+    second: NES - Contra - Level 1_100
+  - first:
+      213: 7582144237774153479
+    second: NES - Contra - Level 1_101
+  - first:
+      213: 9002665433312083460
+    second: NES - Contra - Level 1_102
+  - first:
+      213: 3502827876412667943
+    second: NES - Contra - Level 1_103
+  - first:
+      213: 3147460652438517828
+    second: NES - Contra - Level 1_104
+  - first:
+      213: -8732096074792417169
+    second: NES - Contra - Level 1_105
+  - first:
+      213: 8829853660533929711
+    second: NES - Contra - Level 1_106
+  - first:
+      213: -3930833864868350466
+    second: NES - Contra - Level 1_107
+  - first:
+      213: 8414711737066902953
+    second: NES - Contra - Level 1_108
+  - first:
+      213: -7764668204189621675
+    second: NES - Contra - Level 1_109
+  - first:
+      213: 5800879682069948619
+    second: NES - Contra - Level 1_110
+  - first:
+      213: -2189370932493688866
+    second: NES - Contra - Level 1_111
+  - first:
+      213: 240577576985784113
+    second: NES - Contra - Level 1_112
+  - first:
+      213: -863400380095459118
+    second: NES - Contra - Level 1_113
+  - first:
+      213: -6246890365742304238
+    second: NES - Contra - Level 1_114
+  - first:
+      213: 4551265167556416
+    second: NES - Contra - Level 1_115
+  - first:
+      213: -8546317465465763228
+    second: NES - Contra - Level 1_116
+  - first:
+      213: 312731808944579871
+    second: NES - Contra - Level 1_117
+  - first:
+      213: -8125282372284305684
+    second: NES - Contra - Level 1_118
+  - first:
+      213: 3255616887422304887
+    second: NES - Contra - Level 1_119
+  - first:
+      213: 7414189692895966324
+    second: NES - Contra - Level 1_120
+  - first:
+      213: 4190602313594324623
+    second: NES - Contra - Level 1_121
+  - first:
+      213: -1613520741758646158
+    second: NES - Contra - Level 1_122
+  - first:
+      213: -8918934738459956669
+    second: NES - Contra - Level 1_123
+  - first:
+      213: -1006073862268937713
+    second: NES - Contra - Level 1_124
+  - first:
+      213: 1264665362209365253
+    second: NES - Contra - Level 1_125
+  - first:
+      213: -636741235630985844
+    second: NES - Contra - Level 1_126
+  - first:
+      213: 244294209708927297
+    second: NES - Contra - Level 1_127
+  - first:
+      213: -2826502600700784431
+    second: NES - Contra - Level 1_128
+  - first:
+      213: -3623054572794039527
+    second: NES - Contra - Level 1_129
+  - first:
+      213: 4402303417614508389
+    second: NES - Contra - Level 1_130
+  - first:
+      213: 7075968227652371666
+    second: NES - Contra - Level 1_131
+  - first:
+      213: -3102580963781871237
+    second: NES - Contra - Level 1_132
+  - first:
+      213: -322107621018806819
+    second: NES - Contra - Level 1_133
+  - first:
+      213: -2876457137659476833
+    second: NES - Contra - Level 1_134
+  - first:
+      213: -6330579187499557092
+    second: NES - Contra - Level 1_135
+  - first:
+      213: -8458208367792954883
+    second: NES - Contra - Level 1_136
+  - first:
+      213: 7383925431420748807
+    second: NES - Contra - Level 1_137
+  - first:
+      213: -5195041150556167043
+    second: NES - Contra - Level 1_138
+  - first:
+      213: 6968994189263260620
+    second: NES - Contra - Level 1_139
+  - first:
+      213: -4502587940894313299
+    second: NES - Contra - Level 1_140
+  - first:
+      213: 7188359637304268632
+    second: NES - Contra - Level 1_141
+  - first:
+      213: 1007130574579361693
+    second: NES - Contra - Level 1_142
+  - first:
+      213: 777207473835173631
+    second: NES - Contra - Level 1_143
+  - first:
+      213: -1782793810722277845
+    second: NES - Contra - Level 1_144
+  - first:
+      213: -2755240214765135211
+    second: NES - Contra - Level 1_145
+  - first:
+      213: -9211572329283883322
+    second: NES - Contra - Level 1_146
+  - first:
+      213: -5245743528458047971
+    second: NES - Contra - Level 1_147
+  - first:
+      213: -2537791592405709133
+    second: NES - Contra - Level 1_148
+  - first:
+      213: 4501157111317238839
+    second: NES - Contra - Level 1_149
+  - first:
+      213: -1001733199853490834
+    second: NES - Contra - Level 1_150
+  - first:
+      213: -7798404776608317440
+    second: NES - Contra - Level 1_151
+  - first:
+      213: -6616341746477331302
+    second: NES - Contra - Level 1_152
+  - first:
+      213: -1361095366860302676
+    second: NES - Contra - Level 1_153
+  - first:
+      213: 4632577967605918279
+    second: NES - Contra - Level 1_154
+  - first:
+      213: 3729406673162343750
+    second: NES - Contra - Level 1_155
+  - first:
+      213: -8813841420046162056
+    second: NES - Contra - Level 1_156
+  - first:
+      213: -4997742371795326376
+    second: NES - Contra - Level 1_157
+  - first:
+      213: 2043170685687783313
+    second: NES - Contra - Level 1_158
+  - first:
+      213: 1625995587838425267
+    second: NES - Contra - Level 1_159
+  - first:
+      213: 5664331369001302825
+    second: NES - Contra - Level 1_160
+  - first:
+      213: -6484442062122786013
+    second: NES - Contra - Level 1_161
+  - first:
+      213: -5507414496935796569
+    second: NES - Contra - Level 1_162
+  - first:
+      213: -6874982532565652215
+    second: NES - Contra - Level 1_163
+  - first:
+      213: 1124658488302165482
+    second: NES - Contra - Level 1_164
+  - first:
+      213: 5048680150215703817
+    second: NES - Contra - Level 1_165
+  - first:
+      213: 3715309101310227378
+    second: NES - Contra - Level 1_166
+  - first:
+      213: 7406743416163258685
+    second: NES - Contra - Level 1_167
+  - first:
+      213: -2388159173707587421
+    second: NES - Contra - Level 1_168
+  - first:
+      213: -8266086302873915309
+    second: NES - Contra - Level 1_169
+  - first:
+      213: 6552403302662089962
+    second: NES - Contra - Level 1_170
+  - first:
+      213: -8048192560671458097
+    second: NES - Contra - Level 1_171
+  - first:
+      213: -3304930489961369821
+    second: NES - Contra - Level 1_172
+  - first:
+      213: -2865086911442480301
+    second: NES - Contra - Level 1_173
+  - first:
+      213: -1579753756332801166
+    second: NES - Contra - Level 1_174
+  - first:
+      213: 2689881869930806054
+    second: NES - Contra - Level 1_175
+  - first:
+      213: 6461407401189296755
+    second: NES - Contra - Level 1_176
+  - first:
+      213: 9179779025592153745
+    second: NES - Contra - Level 1_177
+  - first:
+      213: 1969881698998343848
+    second: NES - Contra - Level 1_178
+  - first:
+      213: 3179329928564885460
+    second: NES - Contra - Level 1_179
+  - first:
+      213: -1268804516369785782
+    second: NES - Contra - Level 1_180
+  - first:
+      213: -7776966495121367428
+    second: NES - Contra - Level 1_181
+  - first:
+      213: 8895507750732779596
+    second: NES - Contra - Level 1_182
+  - first:
+      213: 1739378553348300610
+    second: NES - Contra - Level 1_183
+  - first:
+      213: 6522726125009458462
+    second: NES - Contra - Level 1_184
+  - first:
+      213: -13181662201460559
+    second: NES - Contra - Level 1_185
+  - first:
+      213: 272055132907959012
+    second: NES - Contra - Level 1_186
+  - first:
+      213: 8374078733741770319
+    second: NES - Contra - Level 1_187
+  - first:
+      213: -7727882085884986384
+    second: NES - Contra - Level 1_188
+  - first:
+      213: 6366513163778679628
+    second: NES - Contra - Level 1_189
+  - first:
+      213: 2764425983812189161
+    second: NES - Contra - Level 1_190
+  - first:
+      213: 2055421727222075698
+    second: NES - Contra - Level 1_191
+  - first:
+      213: -517965461354533193
+    second: NES - Contra - Level 1_192
+  - first:
+      213: 637247091480033439
+    second: NES - Contra - Level 1_193
+  - first:
+      213: 6186160481847062069
+    second: NES - Contra - Level 1_194
+  - first:
+      213: 4352415975878312246
+    second: NES - Contra - Level 1_195
+  - first:
+      213: 4904422787413301650
+    second: NES - Contra - Level 1_196
+  - first:
+      213: -8390619733802396448
+    second: NES - Contra - Level 1_197
+  - first:
+      213: 3277865891642402671
+    second: NES - Contra - Level 1_198
+  - first:
+      213: -1864282271663267733
+    second: NES - Contra - Level 1_199
+  - first:
+      213: 4953994820659909680
+    second: NES - Contra - Level 1_200
+  - first:
+      213: 5716127015485343004
+    second: NES - Contra - Level 1_201
+  - first:
+      213: 7153517778827875386
+    second: NES - Contra - Level 1_202
+  - first:
+      213: -364501838458347552
+    second: NES - Contra - Level 1_203
+  - first:
+      213: -7879862684095673305
+    second: NES - Contra - Level 1_204
+  - first:
+      213: 8666336683079313803
+    second: NES - Contra - Level 1_205
+  - first:
+      213: 4305668315306489109
+    second: NES - Contra - Level 1_206
+  - first:
+      213: -9211479495628129298
+    second: NES - Contra - Level 1_207
+  - first:
+      213: 2938684801127642195
+    second: NES - Contra - Level 1_208
+  - first:
+      213: -8176104946141316064
+    second: NES - Contra - Level 1_209
+  - first:
+      213: -7265900727641749602
+    second: NES - Contra - Level 1_210
+  - first:
+      213: -5768823593721082545
+    second: NES - Contra - Level 1_211
+  - first:
+      213: 3501119661469905788
+    second: NES - Contra - Level 1_212
+  - first:
+      213: 767314310431844836
+    second: NES - Contra - Level 1_213
+  - first:
+      213: -8325099604526477089
+    second: NES - Contra - Level 1_214
+  - first:
+      213: 244404860687633962
+    second: NES - Contra - Level 1_215
+  - first:
+      213: 9092883381089971004
+    second: NES - Contra - Level 1_216
+  - first:
+      213: -1270207194958719565
+    second: NES - Contra - Level 1_217
+  - first:
+      213: -2520199252969768891
+    second: NES - Contra - Level 1_218
+  - first:
+      213: 7542719684900429833
+    second: NES - Contra - Level 1_219
+  - first:
+      213: 1698517155970430291
+    second: NES - Contra - Level 1_220
+  - first:
+      213: -4136815502396151501
+    second: NES - Contra - Level 1_221
+  - first:
+      213: 3938915711330928760
+    second: NES - Contra - Level 1_222
+  - first:
+      213: 4513921227295260535
+    second: NES - Contra - Level 1_223
+  - first:
+      213: 8626826342326572776
+    second: NES - Contra - Level 1_224
+  - first:
+      213: 1331310707185792172
+    second: NES - Contra - Level 1_225
+  - first:
+      213: 6222753595224076508
+    second: NES - Contra - Level 1_226
+  - first:
+      213: 6930620447282885409
+    second: NES - Contra - Level 1_227
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4378b2baa5e1d4cb0800000000000000
+      internalID: -4878209446604732620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7fa734aa9cac860800000000000000
+      internalID: 7551069458353813454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd92682c7a534020800000000000000
+      internalID: 2324801321953304013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc8717b181392f30800000000000000
+      internalID: 4551223331626912971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2989c1790952bf0800000000000000
+      internalID: -349714417357122856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf3de10566a2bdb0800000000000000
+      internalID: -4777573301932441657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485a3eeb534626d80800000000000000
+      internalID: -8258928584645433980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9576a6af4e66120800000000000000
+      internalID: 2406862815054223816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d427204db9eba6ca0800000000000000
+      internalID: -6022791975168478643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6424048220f395f70800000000000000
+      internalID: 9176434994241880646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f55d9f520e00bf20800000000000000
+      internalID: 3436261919040558584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e7d3aac5342dd30800000000000000
+      internalID: 4454697046695050813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6c7a878e369d5a0800000000000000
+      internalID: -6496051137397405955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_13
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b648fa34d2b83b0800000000000000
+      internalID: -5509259950426920082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_14
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8674dbd5459ed150800000000000000
+      internalID: 5899316689175344779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7913c3390e29660800000000000000
+      internalID: 7391216861443102660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_16
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0881bb7ab922d6300800000000000000
+      internalID: 246891606504577152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_17
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72af2fea330e2850800000000000000
+      internalID: 6354019675922211453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7372d2cf0ba553150800000000000000
+      internalID: 5851683007029389111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_19
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ece654c42e45f60800000000000000
+      internalID: 8022285653463977503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a325f56b6bb7b6ae0800000000000000
+      internalID: -1555013221652409798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_21
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec594ee22d027060800000000000000
+      internalID: 6949631618663931109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_22
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91346f27d07276b60800000000000000
+      internalID: 7739197423376286489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_23
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b8eadd1aa9d4db0800000000000000
+      internalID: -4806015207334835370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_24
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ef2f41a7e915960800000000000000
+      internalID: 7589021094270664200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_25
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d9e64ae5e06a0c0800000000000000
+      internalID: -4564945372644991716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_26
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170df0948b91ea970800000000000000
+      internalID: 8767973803827384433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_27
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cd93a319d129750800000000000000
+      internalID: 6310138537483820071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_28
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12dbe95ad6d958b0800000000000000
+      internalID: -5162859264503721443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_29
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0be206acc7e1490800000000000000
+      internalID: -7773638698155986697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_30
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acdd6cf66bde7760800000000000000
+      internalID: 7457639268340325536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_31
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7e7488298140710800000000000000
+      internalID: 1658477580409890814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_32
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89cbdf06fc07b470800000000000000
+      internalID: 8410205080105240974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_33
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dd7cb6da45fe8b0800000000000000
+      internalID: -5120781147482628737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_34
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7927c951d277cae0800000000000000
+      internalID: -1529127304989038211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_35
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a5bc600c4eba7f0800000000000000
+      internalID: -600134611924985325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_36
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f5b23b7276cc2d0800000000000000
+      internalID: -3257115010288361650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_37
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b36b06f45ffa550800000000000000
+      internalID: 6174423335422016385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_38
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b7a0f90c1d26d10800000000000000
+      internalID: 2117485400049744794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_39
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db268875243ba3e90800000000000000
+      internalID: -7045121569549950275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_40
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f25fa0d2b5722d60800000000000000
+      internalID: 7863977310208086771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_41
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6f285c7a4295550800000000000000
+      internalID: 6149987069142955726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_42
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e943a832ba2ffb40800000000000000
+      internalID: 5476142616848583141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_43
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406e1fdf5a0086e80800000000000000
+      internalID: -8185291609815783932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_44
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70abb56261ced8e60800000000000000
+      internalID: 7966282895765256711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_45
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7d8bce85f3a3110800000000000000
+      internalID: 1241374298455201729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_46
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f509a37c3050f8140800000000000000
+      internalID: 4724000047920484447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_47
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a49413fd7016e8b0800000000000000
+      internalID: -5123389392952191840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_48
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0a4eda3c0352310800000000000000
+      internalID: 1379562477853122770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_49
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93791d8845830ae20800000000000000
+      internalID: 3359747257742235449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_50
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9000afd372d3fd170800000000000000
+      internalID: 8205344284845146121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_51
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8f30a0eeaa62eb0800000000000000
+      internalID: -4744917218041268056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_52
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcdf605c74a08220800000000000000
+      internalID: 2486167848140922040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_53
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547e9552823d83f50800000000000000
+      internalID: 6861466201677752133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_54
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff593f98e401c790800000000000000
+      internalID: -7511717306327015435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_55
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0edd8cda7774ca10800000000000000
+      internalID: 1928797909991415311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_56
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 175
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6f2bdba6fdc9fa0800000000000000
+      internalID: -5792509371163150683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce988d3fefeaced0800000000000000
+      internalID: -2392836441185411379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_58
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab9dc47417b3a7d0800000000000000
+      internalID: -2908279635864347739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_59
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44132af7781d93270800000000000000
+      internalID: 8230840173888418116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_60
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25414e4ad0f06830800000000000000
+      internalID: 4062511684294624554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0a19295d55c4200800000000000000
+      internalID: 165601662081278112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_62
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a74fa5e5e4f4b20800000000000000
+      internalID: 3120799233950906932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_63
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9466bcdb0e1f4edd0800000000000000
+      internalID: -2457573549078256055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_64
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eee4729a99149c0800000000000000
+      internalID: -3944702846811836804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5053bbaa37547a90800000000000000
+      internalID: -7317127585069838243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_66
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ef1b7edbe80b9f0800000000000000
+      internalID: -454706616077255016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_67
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed8341e27ef60770800000000000000
+      internalID: 8576822309732716003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_68
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f127dc5bbc798f00800000000000000
+      internalID: 1119563126536610290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b20f974beafce40800000000000000
+      internalID: 5678949745300613989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_70
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ca460075f92d730800000000000000
+      internalID: 4022452613212843092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_71
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801d5bd8ce8f57b90800000000000000
+      internalID: -7244610730682101496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_72
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fccb8de305dc8030800000000000000
+      internalID: 3498405223407013111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_73
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2994e56984767f0800000000000000
+      internalID: -619446613075979523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_74
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cb2271ad5b77490800000000000000
+      internalID: -7748524685571998630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_75
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b76ee6db66ca68e0800000000000000
+      internalID: -1699327742909192263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_76
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013753df197002b10800000000000000
+      internalID: 1954570561878586128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_77
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ab5e6fa19db06c0800000000000000
+      internalID: -4176005519621375337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_78
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0cfc3066fb03940800000000000000
+      internalID: 5273925608522367159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_79
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1a924ba684c1460800000000000000
+      internalID: 7213720326267052484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_80
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc0e50970e548520800000000000000
+      internalID: 2703389062909004989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_81
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51ba9acf1f861d40800000000000000
+      internalID: 5554784557113979230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_82
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaf56177b77dfb20800000000000000
+      internalID: 3169821342503926507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_83
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c61bced605b5ab70800000000000000
+      internalID: 8909726478934677193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_84
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a007939786d08a770800000000000000
+      internalID: 8622156228962381834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_85
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ffbe041585a3d60800000000000000
+      internalID: 7870700404788166521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_86
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9f597c4521d6730800000000000000
+      internalID: 3993868599882545655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_87
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2330f9ec2a94dd20800000000000000
+      internalID: 3302433944463487788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_88
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c13ff3439f16db90800000000000000
+      internalID: -7217546635453189696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_89
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9de9883a577ac40800000000000000
+      internalID: 5523512813225433541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_90
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2a8c11776f1c1d0800000000000000
+      internalID: -3332111258017553694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_91
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9864b00a1081d3c80800000000000000
+      internalID: -8341484539561163127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_92
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6338d42759ed090800000000000000
+      internalID: -8007798769258907959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_93
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e98040593726690800000000000000
+      internalID: -7610393336447721864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_94
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d91ddeadc7e3cf0800000000000000
+      internalID: -270641647860998841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_95
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a8c294653d119b0800000000000000
+      internalID: -5111071734540498409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_96
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443b6882073df1c90800000000000000
+      internalID: -7196801200845049020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_97
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36626bf49a003b5c0800000000000000
+      internalID: -4201013300219730333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_98
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985f40dff2e20f4b0800000000000000
+      internalID: -5408772368828664439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_99
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a159181b94754a500800000000000000
+      internalID: 406545840392475930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_100
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf92ef9793531dfe0800000000000000
+      internalID: -1166092307536139780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_101
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707ad482300393960800000000000000
+      internalID: 7582144237774153479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_102
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e31407384efec70800000000000000
+      internalID: 9002665433312083460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_103
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728b9e2156b8c9030800000000000000
+      internalID: 3502827876412667943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_104
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448fd1599c60eab20800000000000000
+      internalID: 3147460652438517828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_105
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f684a6572ec51d680800000000000000
+      internalID: -8732096074792417169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_106
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6bec62f11f98a70800000000000000
+      internalID: 8829853660533929711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_107
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef532752d6fd279c0800000000000000
+      internalID: -3930833864868350466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_108
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5de27edbf07c470800000000000000
+      internalID: 8414711737066902953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_109
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552e182486b5e3490800000000000000
+      internalID: -7764668204189621675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_110
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc86f82265dd08050800000000000000
+      internalID: 5800879682069948619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_111
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfd5279cbacd91e0800000000000000
+      internalID: -2189370932493688866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_112
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f69291804b65300800000000000000
+      internalID: 240577576985784113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_113
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 105
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d01975cde59404f0800000000000000
+      internalID: -863400380095459118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214be1f4f469e49a0800000000000000
+      internalID: -6246890365742304238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_115
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f379ff95b201000800000000000000
+      internalID: 4551265167556416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_116
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a4235ab81656980800000000000000
+      internalID: -8546317465465763228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_117
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f156b1e5ceb075400800000000000000
+      internalID: 312731808944579871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_118
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee20446bb23d3f80800000000000000
+      internalID: -8125282372284305684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_119
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772c1936f464e2d20800000000000000
+      internalID: 3255616887422304887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_120
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4743d6e5e3e74e660800000000000000
+      internalID: 7414189692895966324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_121
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8648b8f992082a30800000000000000
+      internalID: 4190602313594324623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27840c52f6f9b99e0800000000000000
+      internalID: -1613520741758646158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_123
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ae3332c14993480800000000000000
+      internalID: -8918934738459956669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_124
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a97a51725b902f0800000000000000
+      internalID: -1006073862268937713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_125
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dda3a427efc8110800000000000000
+      internalID: 1264665362209365253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_126
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d2f544837d927f0800000000000000
+      internalID: -636741235630985844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_127
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149a2661a48e36300800000000000000
+      internalID: 244294209708927297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_128
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d013803cde36c8d0800000000000000
+      internalID: -2826502600700784431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_129
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913b1c2df0358bdc0800000000000000
+      internalID: -3623054572794039527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_130
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561a66842af181d30800000000000000
+      internalID: 4402303417614508389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_131
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d48b2bec93e23260800000000000000
+      internalID: 7075968227652371666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_132
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7974e63d0b61f4d0800000000000000
+      internalID: -3102580963781871237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_133
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd55ab543d4a78bf0800000000000000
+      internalID: -322107621018806819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_134
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f948b223975c418d0800000000000000
+      internalID: -2876457137659476833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_135
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f9b9215c34528a0800000000000000
+      internalID: -6330579187499557092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_136
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1e6719d486e9a80800000000000000
+      internalID: -8458208367792954883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_137
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7048ec3ee09f87660800000000000000
+      internalID: 7383925431420748807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_138
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74209b199187e7b0800000000000000
+      internalID: -5195041150556167043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_139
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb4cc4ba47d6b060800000000000000
+      internalID: 6968994189263260620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_140
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4790d9f189381c0800000000000000
+      internalID: -4502587940894313299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_141
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857d64b210f22c360800000000000000
+      internalID: 7188359637304268632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_142
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97ec3cebeb0afd00800000000000000
+      internalID: 1007130574579361693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_143
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff669b2641239ca00800000000000000
+      internalID: 777207473835173631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_144
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26322c897e3247e0800000000000000
+      internalID: -1782793810722277845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_145
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a9d006f9b63c9d0800000000000000
+      internalID: -2755240214765135211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_146
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce673285cbe92080800000000000000
+      internalID: -9211572329283883322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_147
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e2473dd006337b0800000000000000
+      internalID: -5245743528458047971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_148
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be4fa41ef3f7ccd0800000000000000
+      internalID: -2537791592405709133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_149
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734994a6b82577e30800000000000000
+      internalID: 4501157111317238839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_150
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d640f46f02912f0800000000000000
+      internalID: -1001733199853490834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_151
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0004d836c2086c390800000000000000
+      internalID: -7798404776608317440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_152
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c81a88c380e24a0800000000000000
+      internalID: -6616341746477331302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_153
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca69cd8a9fa6c1de0800000000000000
+      internalID: -1361095366860302676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_154
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74aa379fd193a4040800000000000000
+      internalID: 4632577967605918279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_155
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64510d82c9381c330800000000000000
+      internalID: 3729406673162343750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_156
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877268b1de1fea580800000000000000
+      internalID: -8813841420046162056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_157
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85aa832cac374aab0800000000000000
+      internalID: -4997742371795326376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_158
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f59e7d9ecca5c10800000000000000
+      internalID: 2043170685687783313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_159
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8367b4f52b09610800000000000000
+      internalID: 1625995587838425267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_160
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bbc638e5fbb9e40800000000000000
+      internalID: 5664331369001302825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_161
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323e190fc42a206a0800000000000000
+      internalID: -6484442062122786013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_162
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a02e4fc1bbb193b0800000000000000
+      internalID: -5507414496935796569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_163
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90da865dfc72790a0800000000000000
+      internalID: -6874982532565652215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_164
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedd0e8bfe69b9f00800000000000000
+      internalID: 1124658488302165482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_165
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d3c2af8d3801640800000000000000
+      internalID: 5048680150215703817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_166
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b33f5e61fd6f8330800000000000000
+      internalID: 3715309101310227378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_167
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31dfd6f4e90ac660800000000000000
+      internalID: 7406743416163258685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_168
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0a11072ed8bded0800000000000000
+      internalID: -2388159173707587421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_169
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3507a7a9d46f84d80800000000000000
+      internalID: -8266086302873915309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Level 1_170
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 35
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec25407610deea50800000000000000
+      internalID: 6552403302662089962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
