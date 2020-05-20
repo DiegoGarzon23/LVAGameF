@@ -333,6 +333,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   vel: 10
   powerSalto: 5
+  mIsGrounded: 1
 --- !u!95 &80328768
 Animator:
   serializedVersion: 3
@@ -2389,7 +2390,7 @@ PrefabInstance:
     - target: {fileID: 8503992507375458513, guid: 2b96fd85793d18f43b6d44020d3f91a1,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.13
+      value: 8.61
       objectReference: {fileID: 0}
     - target: {fileID: 8503992507375458513, guid: 2b96fd85793d18f43b6d44020d3f91a1,
         type: 3}
